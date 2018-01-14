@@ -1,5 +1,5 @@
 # Number-plate-detection-using-CNN
-This program uses convolutional neural networks to recognize the text in the number plate
+This program uses convolutional neural networks to recognize the text in the number plate.This network is based on [this paper](https://vision.in.tum.de/_media/spezial/bib/stark-gcpr15.pdf) by Stark et al, which describes how google broke their own CAPTCHA system. Do check it out, as it gives more specifics about the architecture used than Google's paper.
 
 To use this project:
 
